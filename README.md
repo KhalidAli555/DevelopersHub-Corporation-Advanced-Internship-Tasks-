@@ -28,7 +28,7 @@ Model effectively identifies high-probability customers
 
 Supports data-driven marketing decisions and cost reduction
 
-** Task 2: Customer Segmentation Using Unsupervised Learning** 
+**Task 2: Customer Segmentation Using Unsupervised Learning    **
 **Task Objective**
 
 Segment customers based on spending behavior to enable personalized marketing strategies.
