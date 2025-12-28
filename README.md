@@ -1,10 +1,10 @@
-Task 1: Term Deposit Subscription Prediction (Bank Marketing)  
-Task Objective
+**Task 1: Term Deposit Subscription Prediction (Bank Marketing)**  
+**Task Objective**
 
 Predict whether a bank customer will subscribe to a term deposit based on historical marketing campaign data.
 The goal is to improve campaign targeting and reduce marketing costs.
 
-Approach
+**Approach**
 
 Performed data preprocessing with feature scaling and one-hot encoding
 
@@ -18,7 +18,7 @@ Random Forest Classifier
 
 Evaluated models using confusion matrix, precision, recall, and F1-score
 
-Results and Findings
+**Results and Findings**
 
 Random Forest achieved the best performance
 
@@ -28,13 +28,12 @@ Model effectively identifies high-probability customers
 
 Supports data-driven marketing decisions and cost reduction
 
-
- Task 2: Customer Segmentation Using Unsupervised Learning  
-Task Objective
+ **Task 2: Customer Segmentation Using Unsupervised Learning **
+**Task Objective**
 
 Segment customers based on spending behavior to enable personalized marketing strategies.
 
-Approach
+**Approach**
 
 Conducted Exploratory Data Analysis (EDA) on customer demographics
 
@@ -46,7 +45,7 @@ Applied K-Means clustering with optimal clusters determined by the Elbow Method
 
 Visualized clusters using PCA
 
-Results and Findings
+**Results and Findings**
 
 Customers segmented into 5 distinct clusters
 
@@ -57,12 +56,12 @@ Clear cluster separation observed using PCA
 Enables targeted marketing, improved engagement, and better resource allocation
 
 
- Task 3: Energy Consumption Time Series Forecasting   
-Task Objective
+** Task 3: Energy Consumption Time Series Forecasting **  
+**Task Objective**
 
 Forecast short-term household energy consumption using historical time-series data and compare statistical and machine learning models.
 
-Approach
+**Approach**
 
 Parsed and resampled energy consumption data to hourly frequency
 
@@ -80,7 +79,7 @@ Evaluated models using MAE and RMSE
 
 Visualized actual vs forecasted consumption
 
-Results and Findings
+**Results and Findings**
 Model	MAE	RMSE
 ARIMA	0.68	0.91
 Prophet	0.71	0.94
@@ -92,7 +91,7 @@ Feature engineering significantly improved model performance
 
 Machine learning models outperformed classical statistical approaches
 
- Overall Summary
+** Overall Summary**
 
 Demonstrates strong understanding of supervised, unsupervised, and time series modeling
 
