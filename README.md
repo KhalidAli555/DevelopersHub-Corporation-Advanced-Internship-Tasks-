@@ -1,4 +1,4 @@
-Task 1: Term Deposit Subscription Prediction (Bank Marketing)
+Task 1: Term Deposit Subscription Prediction (Bank Marketing)  
 Task Objective
 
 Predict whether a bank customer will subscribe to a term deposit based on historical marketing campaign data.
