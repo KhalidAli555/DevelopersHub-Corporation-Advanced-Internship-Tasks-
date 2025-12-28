@@ -28,7 +28,7 @@ Model effectively identifies high-probability customers
 
 Supports data-driven marketing decisions and cost reduction
 
-**Task 2: Customer Segmentation Using Unsupervised Learning    **
+**Task 2: Customer Segmentation Using Unsupervised Learning  **
 **Task Objective**
 
 Segment customers based on spending behavior to enable personalized marketing strategies.
@@ -80,6 +80,7 @@ Evaluated models using MAE and RMSE
 Visualized actual vs forecasted consumption
 
 **Results and Findings**    
+
 Model	MAE	RMSE
 ARIMA	0.68	0.91
 Prophet	0.71	0.94
