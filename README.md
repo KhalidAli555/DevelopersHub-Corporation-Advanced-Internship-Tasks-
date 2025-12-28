@@ -29,7 +29,7 @@ Model effectively identifies high-probability customers
 Supports data-driven marketing decisions and cost reduction
 
 
- Task 2: Customer Segmentation Using Unsupervised Learning
+ Task 2: Customer Segmentation Using Unsupervised Learning  
 Task Objective
 
 Segment customers based on spending behavior to enable personalized marketing strategies.
@@ -57,7 +57,7 @@ Clear cluster separation observed using PCA
 Enables targeted marketing, improved engagement, and better resource allocation
 
 
- Task 3: Energy Consumption Time Series Forecasting
+ Task 3: Energy Consumption Time Series Forecasting   
 Task Objective
 
 Forecast short-term household energy consumption using historical time-series data and compare statistical and machine learning models.
