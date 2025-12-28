@@ -28,7 +28,7 @@ Model effectively identifies high-probability customers
 
 Supports data-driven marketing decisions and cost reduction
 
- **Task 2: Customer Segmentation Using Unsupervised Learning **
+** Task 2: Customer Segmentation Using Unsupervised Learning** 
 **Task Objective**
 
 Segment customers based on spending behavior to enable personalized marketing strategies.
@@ -45,7 +45,7 @@ Applied K-Means clustering with optimal clusters determined by the Elbow Method
 
 Visualized clusters using PCA
 
-**Results and Findings**
+**Results and Findings**  
 
 Customers segmented into 5 distinct clusters
 
@@ -56,8 +56,8 @@ Clear cluster separation observed using PCA
 Enables targeted marketing, improved engagement, and better resource allocation
 
 
-** Task 3: Energy Consumption Time Series Forecasting **  
-**Task Objective**
+** Task 3: Energy Consumption Time Series Forecasting **    
+**Task Objective**  
 
 Forecast short-term household energy consumption using historical time-series data and compare statistical and machine learning models.
 
@@ -79,7 +79,7 @@ Evaluated models using MAE and RMSE
 
 Visualized actual vs forecasted consumption
 
-**Results and Findings**
+**Results and Findings**    
 Model	MAE	RMSE
 ARIMA	0.68	0.91
 Prophet	0.71	0.94
